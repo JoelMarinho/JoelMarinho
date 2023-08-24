@@ -1,6 +1,6 @@
 
 # JoelMarinho
-## 🚀 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=OLÁ,%20ME%20CHAMO%20JOELSON%20MARINHO;INICIANTE%20NESSE%20MUNDO%20da%20PROGRAMAÇÃO!)](https://git.io/typing-svg)
+##  🚀  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=OLÁ,%20ME%20CHAMO%20JOELSON%20MARINHO;INICIANTE%20NESSE%20MUNDO%20DA%20PROGRAMAÇÃO)](https://git.io/typing-svg)
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://br.linkedin.com/in/joelson-marinho-b29209203?trk=people-guest_people_search-card)
