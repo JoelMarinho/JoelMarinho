@@ -11,7 +11,7 @@
 
 
 ## GitHub stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoelMarinho&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelmarinho&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Habilidades
 ![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
@@ -23,4 +23,4 @@
 
 ## Minhas contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoelMarinho&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JoelMarinho/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=joelmarinho&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JoelMarinho/dio-lab-open-source)
