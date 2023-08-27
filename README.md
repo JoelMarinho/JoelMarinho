@@ -20,4 +20,4 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=joelmarinho&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JoelMarinho/dio-lab-open-source)
 
 
-[![](https://visitcount.itsvg.in/api?id=joelmarinho&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![visitcount](https://visitcount.itsvg.in/api?id=joelmarinho&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
