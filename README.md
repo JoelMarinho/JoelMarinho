@@ -13,8 +13,7 @@
 ![git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ## Linguagens de programação
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-
+![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ## Minhas contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=joelmarinho&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JoelMarinho/dio-lab-open-source)
